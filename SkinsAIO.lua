@@ -143,7 +143,7 @@ function OnLoad()
 
     champ = champ()
 
-    if not champ then print("There was an error while loading " .. player.charName .. ", please report the shown error to Hellsing, thanks!") return else champLoaded = true end
+    if not champ then print("There was an error while loading " .. player.charName .. ", please report the shown error to Runeterra, thanks!") return else champLoaded = true end
 
     loadMenu()
 end
